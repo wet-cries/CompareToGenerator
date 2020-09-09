@@ -1,0 +1,24 @@
+<idea-plugin>
+    <id>org.example.CompareToGenerator</id>
+    <name>CompareTo generator</name>
+    <vendor email="skachkov.ap@phystech.edu" url="http://www.anycompany.com">Alex</vendor>
+
+    <description>Add generated compareTo() method to the class</description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="org.example.GenerateCompareToAction" class="org.example.GenerateCompareToAction" text="Generate CompareTo"
+                description="Adding generated CompareTo() to a class">
+            <add-to-group group-id="GenerateGroup" anchor="last"/>
+        </action>
+    </actions>
+</idea-plugin>

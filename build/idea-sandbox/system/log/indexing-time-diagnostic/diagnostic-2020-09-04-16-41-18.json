@@ -1,0 +1,102 @@
+{
+  "appInfo" : {
+    "build" : "202.6948.69",
+    "buildDate" : "Tue, 25 Aug 2020 00:22:43 +0300",
+    "productCode" : "IC",
+    "generated" : "Fri, 4 Sep 2020 16:41:18 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.31"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "untitled1",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 1,
+    "times" : {
+      "indexingTime" : "12 s 309 ms",
+      "scanFilesTime" : "11 s 240 ms",
+      "pushPropertiesTime" : "377 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "pushPropertiesEnd" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "scanFilesStart" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "scanFilesEnd" : "Fri, 4 Sep 2020 16:41:17 +0300",
+      "indexExtensionsStart" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "indexExtensionsEnd" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "indexingStart" : "Fri, 4 Sep 2020 16:41:06 +0300",
+      "indexingEnd" : "Fri, 4 Sep 2020 16:41:18 +0300"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "922 B",
+      "indexingSpeed" : "5.88 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'untitled104'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "922 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "34.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "922 B",
+      "indexingSpeed" : "17.02 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "33.5%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "922 B",
+      "indexingSpeed" : "17.54 kB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "16.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "922 B",
+      "indexingSpeed" : "36.05 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "15.6%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "922 B",
+      "indexingSpeed" : "37.65 kB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'untitled104'",
+      "totalNumberOfFiles" : 1,
+      "totalIndexingTime" : "638 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "922 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "34.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "33.5%"
+      }, {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "16.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "15.6%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

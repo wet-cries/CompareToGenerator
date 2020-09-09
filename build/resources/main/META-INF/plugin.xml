@@ -1,0 +1,19 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="202.6948" until-build="202.*"/>
+  <id>org.example.CompareToGenerator</id>
+  <name>CompareTo generator</name>
+  <vendor email="skachkov.ap@phystech.edu" url="http://www.anycompany.com">Alex</vendor>
+  <description>Add generated compareTo() method to the class</description>
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.java</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="org.example.GenerateCompareToAction" class="org.example.GenerateCompareToAction" text="Generate CompareTo" description="Adding generated CompareTo() to a class">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+    </action>
+  </actions>
+</idea-plugin>

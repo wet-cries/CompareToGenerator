@@ -1,0 +1,130 @@
+{
+  "appInfo" : {
+    "build" : "202.6948.69",
+    "buildDate" : "Tue, 25 Aug 2020 00:22:23 +0300",
+    "productCode" : "IC",
+    "generated" : "Fri, 4 Sep 2020 20:06:29 +0300",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.31"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "untitled1",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 53,
+    "times" : {
+      "indexingTime" : "1 s 3 ms",
+      "scanFilesTime" : "623 ms",
+      "pushPropertiesTime" : "1 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "pushPropertiesEnd" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "scanFilesStart" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "scanFilesEnd" : "Fri, 4 Sep 2020 20:06:29 +0300",
+      "indexExtensionsStart" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "indexExtensionsEnd" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "indexingStart" : "Fri, 4 Sep 2020 20:06:28 +0300",
+      "indexingEnd" : "Fri, 4 Sep 2020 20:06:29 +0300"
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "99.8%",
+      "partOfTotalContentLoadingTime" : "99.4%",
+      "totalNumberOfFiles" : 52,
+      "totalFilesSize" : "28.69 kB",
+      "indexingSpeed" : "36.8 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'org.jetbrains:annotations:20.1.0'",
+        "numberOfFiles" : 52,
+        "totalFilesSize" : "28.69 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "75 B",
+      "indexingSpeed" : "55.25 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library 'org.jetbrains:annotations:20.1.0'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "75 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "58.8%",
+      "totalNumberOfFiles" : 52,
+      "totalFilesSize" : "28.69 kB",
+      "indexingSpeed" : "62.48 kB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "39.1%",
+      "totalNumberOfFiles" : 52,
+      "totalFilesSize" : "28.69 kB",
+      "indexingSpeed" : "93.94 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "1.1%",
+      "totalNumberOfFiles" : 52,
+      "totalFilesSize" : "28.69 kB",
+      "indexingSpeed" : "3.41 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 52,
+      "totalFilesSize" : "28.69 kB",
+      "indexingSpeed" : "4.35 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "75 B",
+      "indexingSpeed" : "63.22 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "75 B",
+      "indexingSpeed" : "438.08 kB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Library 'org.jetbrains:annotations:20.1.0'",
+      "totalNumberOfFiles" : 53,
+      "totalIndexingTime" : "376 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 52,
+        "totalFilesSize" : "28.69 kB",
+        "partOfTotalIndexingTime" : "99.8%",
+        "partOfTotalContentLoadingTime" : "99.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "75 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "58.8%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "39.1%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "IdIndex", "Trigram.Index", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    } ]
+  }
+}

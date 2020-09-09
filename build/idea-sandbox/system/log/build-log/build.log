@@ -1,0 +1,760 @@
+2020-09-03 18:19:59,159 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:19:59,159 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:19:59,909 [    750]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 695 ms
+2020-09-03 18:20:00,189 [   1030]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:20:00,510 [   1351]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 320 ms
+2020-09-03 18:20:00,510 [   1351]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:20:00,668 [   1509]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:20:00,680 [   1521]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:20:00,902 [   1743]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2020-09-03 18:20:00,906 [   1747]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:20:00,907 [   1748]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:20:00,916 [   1757]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:20:00,916 [   1757]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 9ef0172a
+2020-09-03 18:20:00,931 [   1772]   INFO - s.index.CompilerReferenceIndex - backward reference index version doesn't exist
+2020-09-03 18:20:01,109 [   1950]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 42 ms
+2020-09-03 18:20:02,410 [   3251]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1095 ms
+2020-09-03 18:20:02,433 [   3274]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1122 ms
+2020-09-03 18:20:02,475 [   3316]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: untitled104
+2020-09-03 18:20:03,534 [   4375]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 880 ms; 2 sources processed (440 ms per file)
+2020-09-03 18:20:03,550 [   4391]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:20:06,024 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:20:06,024 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:20:06,709 [    686]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 635 ms
+2020-09-03 18:20:06,732 [    709]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:20:06,775 [    752]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:20:07,169 [   1146]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 393 ms
+2020-09-03 18:20:07,169 [   1146]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:20:07,408 [   1385]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:20:07,429 [   1406]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:20:07,824 [   1801]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1817 ms
+2020-09-03 18:20:07,983 [   1960]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-03 18:21:10,069 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:21:10,069 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:21:10,840 [    771]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 714 ms
+2020-09-03 18:21:11,084 [   1015]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:21:11,460 [   1391]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 376 ms
+2020-09-03 18:21:11,460 [   1391]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:21:11,598 [   1529]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:21:11,605 [   1536]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:21:11,778 [   1709]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:21:11,781 [   1712]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:21:11,781 [   1712]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:21:11,788 [   1719]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:21:11,788 [   1719]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 2496f575
+2020-09-03 18:21:11,932 [   1863]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2020-09-03 18:21:12,928 [   2859]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 788 ms
+2020-09-03 18:21:12,950 [   2881]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 814 ms
+2020-09-03 18:21:12,986 [   2917]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:21:13,811 [   3742]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:21:13,821 [   3752]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:21:14,857 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:21:14,857 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:21:15,626 [    769]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 720 ms
+2020-09-03 18:21:15,648 [    791]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:21:15,690 [    833]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:21:15,993 [   1136]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 303 ms
+2020-09-03 18:21:15,994 [   1137]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:21:16,148 [   1291]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:21:16,159 [   1302]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:21:16,331 [   1474]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1494 ms
+2020-09-03 18:22:03,739 [  48882]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:22:03,753 [  48896]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:22:03,753 [  48896]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:22:03,782 [  48925]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:22:03,782 [  48925]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 7ff32c6e
+2020-09-03 18:22:04,024 [  49167]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2020-09-03 18:22:05,175 [  50318]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1101 ms
+2020-09-03 18:22:05,198 [  50341]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1128 ms
+2020-09-03 18:22:05,248 [  50391]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:22:06,087 [  51230]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:22:06,185 [  51328]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 796 ms; 1 sources processed (796 ms per file)
+2020-09-03 18:22:06,188 [  51331]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:22:07,604 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:22:07,605 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:22:08,403 [    799]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 746 ms
+2020-09-03 18:22:08,421 [    817]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:22:08,454 [    850]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:22:08,743 [   1139]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 289 ms
+2020-09-03 18:22:08,743 [   1139]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:22:08,901 [   1297]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:22:08,913 [   1309]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:22:09,171 [   1567]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1589 ms
+2020-09-03 18:23:47,119 [  99515]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:23:47,127 [  99523]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:23:47,127 [  99523]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:23:47,134 [  99530]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:23:47,135 [  99531]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 4be97e51
+2020-09-03 18:23:47,267 [  99663]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2020-09-03 18:23:48,190 [ 100586]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 871 ms
+2020-09-03 18:23:48,209 [ 100605]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 893 ms
+2020-09-03 18:23:48,264 [ 100660]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:23:49,079 [ 101475]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:23:49,158 [ 101554]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 784 ms; 1 sources processed (784 ms per file)
+2020-09-03 18:23:49,164 [ 101560]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:23:50,527 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:23:50,528 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:23:51,225 [    698]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 647 ms
+2020-09-03 18:23:51,244 [    717]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:23:51,283 [    756]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:23:51,597 [   1070]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 313 ms
+2020-09-03 18:23:51,597 [   1070]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:23:51,773 [   1246]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:23:51,789 [   1262]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:23:52,061 [   1534]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1553 ms
+2020-09-03 18:24:03,126 [  12599]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:24:03,135 [  12608]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:24:03,136 [  12609]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:24:03,145 [  12618]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:24:03,145 [  12618]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a5378d4e
+2020-09-03 18:24:03,269 [  12742]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2020-09-03 18:24:04,104 [  13577]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 785 ms
+2020-09-03 18:24:04,120 [  13593]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 803 ms
+2020-09-03 18:24:04,191 [  13664]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:24:04,933 [  14406]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:24:04,994 [  14467]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 709 ms; 1 sources processed (709 ms per file)
+2020-09-03 18:24:04,997 [  14470]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:24:06,124 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:24:06,124 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:24:06,804 [    680]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 630 ms
+2020-09-03 18:24:06,826 [    702]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:24:06,862 [    738]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:24:07,136 [   1012]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 273 ms
+2020-09-03 18:24:07,136 [   1012]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:24:07,279 [   1155]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:24:07,291 [   1167]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:24:07,490 [   1366]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1386 ms
+2020-09-03 18:33:01,889 [ 535765]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:33:01,895 [ 535771]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:33:01,895 [ 535771]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:33:01,903 [ 535779]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:33:01,903 [ 535779]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 6b6b7610
+2020-09-03 18:33:02,180 [ 536056]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2020-09-03 18:33:03,313 [ 537189]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 1050 ms
+2020-09-03 18:33:03,332 [ 537208]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 1073 ms
+2020-09-03 18:33:03,399 [ 537275]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: untitled104
+2020-09-03 18:33:04,329 [ 538205]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:33:04,426 [ 538302]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 865 ms; 2 sources processed (432 ms per file)
+2020-09-03 18:33:04,430 [ 538306]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:33:05,762 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:33:05,763 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:33:06,501 [    739]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 682 ms
+2020-09-03 18:33:06,524 [    762]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:33:06,561 [    799]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:33:06,873 [   1111]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 312 ms
+2020-09-03 18:33:06,873 [   1111]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:33:07,021 [   1259]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:33:07,033 [   1271]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:33:07,290 [   1528]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1547 ms
+2020-09-03 18:33:37,837 [  32075]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:33:37,845 [  32083]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:33:37,845 [  32083]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:33:37,869 [  32107]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:33:37,869 [  32107]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 282a432c
+2020-09-03 18:33:38,097 [  32335]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2020-09-03 18:33:39,104 [  33342]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 916 ms
+2020-09-03 18:33:39,123 [  33361]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 938 ms
+2020-09-03 18:33:39,182 [  33420]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:33:39,991 [  34229]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:33:40,083 [  34321]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 772 ms; 1 sources processed (772 ms per file)
+2020-09-03 18:33:40,086 [  34324]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:33:41,217 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:33:41,217 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:33:42,012 [    795]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 731 ms
+2020-09-03 18:33:42,036 [    819]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:33:42,073 [    856]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:33:42,382 [   1165]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 308 ms
+2020-09-03 18:33:42,382 [   1165]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:33:42,526 [   1309]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:33:42,537 [   1320]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:33:42,751 [   1534]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1557 ms
+2020-09-03 18:34:22,666 [  41449]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:34:22,677 [  41460]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:34:22,677 [  41460]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:34:22,691 [  41474]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:34:22,692 [  41475]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started f95bc877
+2020-09-03 18:34:22,852 [  41635]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2020-09-03 18:34:23,759 [  42542]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 860 ms
+2020-09-03 18:34:23,781 [  42564]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 885 ms
+2020-09-03 18:34:23,836 [  42619]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: untitled104
+2020-09-03 18:34:24,785 [  43568]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:34:24,869 [  43652]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 894 ms; 2 sources processed (447 ms per file)
+2020-09-03 18:34:24,875 [  43658]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:34:26,134 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:34:26,134 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:34:26,821 [    687]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 641 ms
+2020-09-03 18:34:26,842 [    708]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:34:26,876 [    742]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:34:27,167 [   1033]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 291 ms
+2020-09-03 18:34:27,167 [   1033]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:34:27,318 [   1184]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:34:27,327 [   1193]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:34:27,545 [   1411]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1430 ms
+2020-09-03 18:34:59,495 [  33361]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:34:59,500 [  33366]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:34:59,501 [  33367]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:34:59,509 [  33375]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:34:59,509 [  33375]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started b963e7c0
+2020-09-03 18:34:59,637 [  33503]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 4 ms
+2020-09-03 18:35:00,666 [  34532]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 925 ms
+2020-09-03 18:35:00,685 [  34551]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 950 ms
+2020-09-03 18:35:00,737 [  34603]   INFO - s.incremental.java.JavaBuilder - Compiling 2 java files; module: untitled104
+2020-09-03 18:35:01,859 [  35725]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:35:01,944 [  35810]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 1 s 69 ms; 2 sources processed (534 ms per file)
+2020-09-03 18:35:01,947 [  35813]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:35:03,402 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:35:03,403 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:35:04,215 [    813]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 729 ms
+2020-09-03 18:35:04,238 [    836]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:35:04,277 [    875]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:35:04,636 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 359 ms
+2020-09-03 18:35:04,636 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:35:04,819 [   1417]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:35:04,830 [   1428]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:35:05,080 [   1678]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1710 ms
+2020-09-03 18:35:10,877 [   7475]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2020-09-03 18:35:10,882 [   7480]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2020-09-03 18:35:10,883 [   7481]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2020-09-03 18:35:10,892 [   7490]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2020-09-03 18:35:10,893 [   7491]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 1fb2071e
+2020-09-03 18:35:11,046 [   7644]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 3 ms
+2020-09-03 18:35:11,953 [   8551]   INFO - kotlin.jps.build.KotlinBuilder - KotlinTargetsIndex created in 857 ms
+2020-09-03 18:35:11,979 [   8577]   INFO - kotlin.jps.build.KotlinBuilder - Total Kotlin global compile context initialization time: 886 ms
+2020-09-03 18:35:12,033 [   8631]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: untitled104
+2020-09-03 18:35:12,860 [   9458]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2020-09-03 18:35:12,933 [   9531]   INFO - rains.jps.cmdline.BuildSession - Build duration: Builder 'Java' took 802 ms; 1 sources processed (802 ms per file)
+2020-09-03 18:35:12,937 [   9535]   INFO - s.incremental.java.JavaBuilder - javac 11.0.6 was used to compile [untitled104]
+2020-09-03 18:35:13,964 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 18:35:13,965 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 18:35:14,647 [    683]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 634 ms
+2020-09-03 18:35:14,668 [    704]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 18:35:14,702 [    738]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 18:35:14,986 [   1022]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 284 ms
+2020-09-03 18:35:14,986 [   1022]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 18:35:15,122 [   1158]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 18:35:15,132 [   1168]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 18:35:15,326 [   1362]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1379 ms
+2020-09-03 19:57:12,272 [4918308]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-03 19:57:47,861 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 19:57:47,862 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 19:57:50,095 [   2234]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2006 ms
+2020-09-03 19:57:50,425 [   2564]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 19:57:50,891 [   3030]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 466 ms
+2020-09-03 19:57:50,891 [   3030]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 19:57:51,099 [   3238]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 19:57:51,110 [   3249]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 19:57:56,466 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 19:57:56,467 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 19:57:58,964 [   2498]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2307 ms
+2020-09-03 19:57:59,007 [   2541]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 19:57:59,143 [   2677]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 19:57:59,880 [   3414]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 736 ms
+2020-09-03 19:57:59,880 [   3414]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 19:58:00,255 [   3789]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 19:58:00,287 [   3821]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 19:58:00,551 [   4085]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4122 ms
+2020-09-03 23:03:56,360 [11159894]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-03 23:17:38,838 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 23:17:38,840 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 23:17:43,109 [   4271]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3281 ms
+2020-09-03 23:17:43,758 [   4920]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 23:17:45,052 [   6214]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1293 ms
+2020-09-03 23:17:45,052 [   6214]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 23:17:45,531 [   6693]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 23:17:45,541 [   6703]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 23:17:48,495 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 23:17:48,497 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 23:17:53,585 [   5090]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 4984 ms
+2020-09-03 23:17:53,615 [   5120]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 23:17:53,683 [   5188]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 23:17:54,448 [   5953]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 764 ms
+2020-09-03 23:17:54,449 [   5954]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 23:17:54,852 [   6357]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 23:17:54,944 [   6449]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 23:17:55,503 [   7008]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 7068 ms
+2020-09-03 23:18:55,200 [  66705]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-03 23:36:07,351 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 23:36:07,352 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 23:36:10,400 [   3049]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2935 ms
+2020-09-03 23:36:10,870 [   3519]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 23:36:11,444 [   4093]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 574 ms
+2020-09-03 23:36:11,445 [   4094]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 23:36:11,614 [   4263]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 23:36:11,623 [   4272]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 23:36:16,807 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-03 23:36:16,808 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-03 23:36:17,787 [    980]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 864 ms
+2020-09-03 23:36:17,832 [   1025]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-03 23:36:17,934 [   1127]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-03 23:36:20,510 [   3703]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 2576 ms
+2020-09-03 23:36:20,510 [   3703]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-03 23:36:21,414 [   4607]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-03 23:36:22,059 [   5252]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-03 23:36:23,833 [   7026]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 7122 ms
+2020-09-03 23:36:31,284 [  14477]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-04 16:41:07,859 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:41:07,862 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:41:12,527 [   4668]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 4440 ms
+2020-09-04 16:41:13,207 [   5348]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:41:14,074 [   6215]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 866 ms
+2020-09-04 16:41:14,074 [   6215]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:41:14,628 [   6769]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:41:14,685 [   6826]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:41:20,481 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:41:20,482 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:41:24,542 [   4061]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3979 ms
+2020-09-04 16:41:24,617 [   4136]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 16:41:24,919 [   4438]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:41:26,409 [   5928]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1489 ms
+2020-09-04 16:41:26,409 [   5928]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:41:26,776 [   6295]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:41:26,800 [   6319]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:41:27,094 [   6613]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6664 ms
+2020-09-04 16:46:53,787 [ 333306]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-04 16:47:24,837 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:47:24,838 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:47:26,881 [   2044]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1931 ms
+2020-09-04 16:47:27,183 [   2346]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:47:29,068 [   4231]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1885 ms
+2020-09-04 16:47:29,069 [   4232]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:47:29,248 [   4411]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:47:29,260 [   4423]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:47:32,841 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:47:32,842 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:47:34,669 [   1828]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1384 ms
+2020-09-04 16:47:34,692 [   1851]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 16:47:34,730 [   1889]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:47:35,083 [   2242]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 352 ms
+2020-09-04 16:47:35,083 [   2242]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:47:35,404 [   2563]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:47:35,460 [   2619]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:47:37,093 [   4252]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4288 ms
+2020-09-04 16:49:23,499 [ 110658]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-04 16:49:53,538 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:49:53,538 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:49:57,570 [   4033]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3824 ms
+2020-09-04 16:49:58,136 [   4599]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:49:59,112 [   5575]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 975 ms
+2020-09-04 16:49:59,113 [   5576]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:49:59,851 [   6314]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:50:00,094 [   6557]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:50:05,532 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 16:50:05,533 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 16:50:06,917 [   1385]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1175 ms
+2020-09-04 16:50:06,942 [   1410]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 16:50:06,990 [   1458]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 16:50:07,444 [   1912]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 453 ms
+2020-09-04 16:50:07,444 [   1912]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 16:50:07,625 [   2093]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 16:50:07,639 [   2107]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 16:50:08,366 [   2834]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2863 ms
+2020-09-04 16:53:58,195 [ 232663]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-04 19:19:49,983 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:19:49,985 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:19:52,275 [   2292]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2032 ms
+2020-09-04 19:19:52,911 [   2928]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:19:53,428 [   3445]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 516 ms
+2020-09-04 19:19:53,428 [   3445]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:19:53,598 [   3615]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:19:53,608 [   3625]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:19:58,353 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:19:58,355 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:20:02,315 [   3962]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2667 ms
+2020-09-04 19:20:02,352 [   3999]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 19:20:02,448 [   4095]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:20:03,453 [   5100]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1005 ms
+2020-09-04 19:20:03,454 [   5101]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:20:03,750 [   5397]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:20:03,768 [   5415]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:20:04,059 [   5706]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6120 ms
+2020-09-04 19:54:33,922 [2075569]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-04 19:55:09,604 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:55:09,605 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:55:12,726 [   3123]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2821 ms
+2020-09-04 19:55:13,286 [   3683]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:55:13,829 [   4226]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 542 ms
+2020-09-04 19:55:13,829 [   4226]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:55:13,983 [   4380]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:55:13,993 [   4390]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:55:20,232 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:55:20,233 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:55:22,554 [   2322]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2146 ms
+2020-09-04 19:55:22,582 [   2350]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 19:55:22,641 [   2409]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:55:23,183 [   2951]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 542 ms
+2020-09-04 19:55:23,183 [   2951]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:55:23,410 [   3178]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:55:23,433 [   3201]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:55:23,713 [   3481]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3662 ms
+2020-09-04 19:56:17,990 [  57758]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-04 19:56:46,116 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:56:46,117 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:56:48,175 [   2059]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1875 ms
+2020-09-04 19:56:48,819 [   2703]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:56:50,432 [   4316]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1612 ms
+2020-09-04 19:56:50,432 [   4316]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:56:50,676 [   4560]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:56:50,684 [   4568]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:56:53,627 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 19:56:53,627 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 19:56:54,666 [   1039]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 980 ms
+2020-09-04 19:56:54,694 [   1067]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 19:56:54,738 [   1111]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 19:56:55,051 [   1424]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 312 ms
+2020-09-04 19:56:55,051 [   1424]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 19:56:55,184 [   1557]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 19:56:55,196 [   1569]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 19:56:55,363 [   1736]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1759 ms
+2020-09-04 20:00:31,375 [ 217748]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-04 20:02:55,273 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 20:02:55,274 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 20:02:56,065 [    792]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 744 ms
+2020-09-04 20:02:56,243 [    970]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 20:02:56,757 [   1484]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 514 ms
+2020-09-04 20:02:56,757 [   1484]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 20:02:56,934 [   1661]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 20:02:56,941 [   1668]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 20:03:01,591 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 20:03:01,593 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 20:03:03,195 [   1604]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1461 ms
+2020-09-04 20:03:03,226 [   1635]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 20:03:03,283 [   1692]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 20:03:03,756 [   2165]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 473 ms
+2020-09-04 20:03:03,756 [   2165]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2020-09-04 20:03:04,008 [   2417]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 20:03:04,035 [   2444]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 20:03:04,380 [   2789]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2829 ms
+2020-09-04 20:06:28,676 [ 207085]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-04 20:11:48,369 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 20:11:48,370 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 20:11:50,660 [   2291]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1888 ms
+2020-09-04 20:11:51,197 [   2828]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 20:11:52,804 [   4435]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1606 ms
+2020-09-04 20:11:52,804 [   4435]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-04 20:11:53,194 [   4825]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 20:11:53,206 [   4837]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 20:11:57,179 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-04 20:11:57,180 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-04 20:12:00,604 [   3425]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2712 ms
+2020-09-04 20:12:00,670 [   3491]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-04 20:12:00,947 [   3768]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-04 20:12:01,701 [   4522]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 753 ms
+2020-09-04 20:12:01,701 [   4522]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-04 20:12:02,071 [   4892]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-04 20:12:02,127 [   4948]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-04 20:12:02,382 [   5203]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5285 ms
+2020-09-04 20:52:47,223 [2450044]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-08 11:25:40,567 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 11:25:40,569 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 11:25:42,335 [   1768]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1655 ms
+2020-09-08 11:25:45,356 [   4789]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 11:25:46,286 [   5719]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 929 ms
+2020-09-08 11:25:46,286 [   5719]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 11:25:47,026 [   6459]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 11:25:47,049 [   6482]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 11:25:51,258 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 11:25:51,259 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 11:25:52,808 [   1551]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1451 ms
+2020-09-08 11:25:52,845 [   1588]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-08 11:25:52,937 [   1680]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 11:25:53,709 [   2452]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 771 ms
+2020-09-08 11:25:53,709 [   2452]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 11:25:54,228 [   2971]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 11:25:54,297 [   3040]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 11:25:55,008 [   3751]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 3791 ms
+2020-09-08 11:27:31,692 [ 100435]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-08 17:01:27,643 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 17:01:27,644 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 17:01:28,843 [   1200]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1117 ms
+2020-09-08 17:01:29,220 [   1577]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 17:01:29,794 [   2151]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 573 ms
+2020-09-08 17:01:29,794 [   2151]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 17:01:30,112 [   2469]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 17:01:30,146 [   2503]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 17:01:38,776 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 17:01:38,777 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 17:01:42,188 [   3412]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2738 ms
+2020-09-08 17:01:42,210 [   3434]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-08 17:01:42,266 [   3490]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 17:01:42,867 [   4091]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 601 ms
+2020-09-08 17:01:42,867 [   4091]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 17:01:43,234 [   4458]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 17:01:43,263 [   4487]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 17:01:43,818 [   5042]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 5125 ms
+2020-09-08 18:05:24,572 [3825796]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-08 18:06:17,828 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 18:06:17,829 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 18:59:01,380 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 18:59:01,384 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 18:59:03,708 [   2328]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2137 ms
+2020-09-08 18:59:04,195 [   2815]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 18:59:04,808 [   3428]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 612 ms
+2020-09-08 18:59:04,808 [   3428]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 18:59:04,974 [   3594]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 18:59:04,984 [   3604]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 18:59:07,754 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-08 18:59:07,758 [      4]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-08 18:59:11,222 [   3468]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3324 ms
+2020-09-08 18:59:11,248 [   3494]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-08 18:59:11,304 [   3550]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-08 18:59:12,330 [   4576]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1026 ms
+2020-09-08 18:59:12,330 [   4576]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-08 18:59:13,120 [   5366]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-08 18:59:13,417 [   5663]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-08 18:59:13,741 [   5987]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6075 ms
+2020-09-08 18:59:59,374 [  51620]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2020-09-09 11:33:09,451 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 11:33:09,453 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 11:33:11,487 [   2036]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1946 ms
+2020-09-09 11:33:11,972 [   2521]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 11:33:12,538 [   3087]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 566 ms
+2020-09-09 11:33:12,539 [   3088]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 11:33:12,818 [   3367]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 11:33:12,836 [   3385]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 11:33:15,484 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 11:33:15,485 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 11:33:16,963 [   1479]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1350 ms
+2020-09-09 11:33:16,995 [   1511]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-09 11:33:17,062 [   1578]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 11:33:17,594 [   2110]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 531 ms
+2020-09-09 11:33:17,594 [   2110]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 11:33:17,791 [   2307]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 11:33:17,821 [   2337]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 11:33:18,110 [   2626]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 2657 ms
+2020-09-09 11:40:07,513 [ 412029]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-09 11:40:40,422 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 11:40:40,424 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 11:40:43,195 [   2773]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2527 ms
+2020-09-09 11:40:44,306 [   3884]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 11:40:45,206 [   4784]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 899 ms
+2020-09-09 11:40:45,206 [   4784]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 11:40:45,378 [   4956]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 11:40:45,388 [   4966]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 11:40:51,257 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 11:40:51,258 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 11:40:54,441 [   3185]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2882 ms
+2020-09-09 11:40:54,462 [   3206]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-09 11:40:54,500 [   3244]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 11:40:54,910 [   3654]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 410 ms
+2020-09-09 11:40:54,910 [   3654]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 11:40:55,278 [   4022]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 11:40:55,308 [   4052]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 11:40:55,588 [   4332]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 4582 ms
+2020-09-09 11:59:13,864 [1102608]   WARN - channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at java.base/sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:615)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:578)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-09-09 12:16:53,171 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 12:16:53,172 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 12:16:55,325 [   2154]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1958 ms
+2020-09-09 12:16:55,954 [   2783]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 12:16:57,615 [   4444]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1660 ms
+2020-09-09 12:16:57,615 [   4444]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 12:16:58,169 [   4998]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 12:16:58,183 [   5012]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 12:17:00,918 [      1]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2020-09-09 12:17:00,919 [      2]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/meDaddy/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2.1/a3f8c1e5b23dacbb6515571c2d97b455643d766d/ideaIC-2020.2.1/plugins/java/lib/jps-launcher.jar
+2020-09-09 12:17:04,736 [   3819]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3578 ms
+2020-09-09 12:17:04,895 [   3978]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2020-09-09 12:17:05,018 [   4101]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/meDaddy/IdeaProjects/untitled1, global options path = D:/spring/demo/CompareToGenerator/build/idea-sandbox/config/options
+2020-09-09 12:17:06,265 [   5348]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1246 ms
+2020-09-09 12:17:06,265 [   5348]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2020-09-09 12:17:07,246 [   6329]   INFO - m.intellij.util.io.StorageLock - lower=100; upper=500; buffer=10; max=680
+2020-09-09 12:17:07,285 [   6368]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes
+2020-09-09 12:17:08,146 [   7229]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 7272 ms
+2020-09-09 12:17:39,162 [  38245]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
