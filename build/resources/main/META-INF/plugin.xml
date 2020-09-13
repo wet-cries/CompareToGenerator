@@ -1,11 +1,8 @@
 <idea-plugin>
-  <version>1.0-SNAPSHOT</version>
-  <change-notes>
-      Add change notes here.&lt;br&gt;
-      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <version>1.0</version>
   <idea-version since-build="202.6948" until-build="202.*"/>
   <id>org.example.CompareToGenerator</id>
-  <name>CompareTo generator</name>
+  <name>CompareTo Generator</name>
   <vendor email="skachkov.ap@phystech.edu" url="http://www.anycompany.com">Alex</vendor>
   <description>Add generated compareTo() method to the class</description>
   <depends>com.intellij.modules.platform</depends>

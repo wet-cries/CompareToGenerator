@@ -53,25 +53,4 @@ public class GenerateTest extends LightJavaCodeInsightFixtureTestCase {
         });
         myFixture.checkResultByFile("afterNumber.java");
     }
-
-    public void testNotNull() {
-        myFixture.configureByFile("beforeNotNull.java");
-        PsiElement elementAtCaret = myFixture.getFile().findElementAt(myFixture.getCaretOffset());
-        PsiClass simpleClass = PsiTreeUtil.getParentOfType(elementAtCaret, PsiClass.class);
-
-        assert simpleClass != null;
-
-        PsiField[] psiFields = simpleClass.getAllFields();
-        List<PsiFieldWithSortedOrder> fields = new ArrayList<>();
-
-        for (PsiField field : psiFields) {
-            fields.add(new PsiFieldWithSortedOrder(field, true));
-        }
-
-        WriteCommandAction.runWriteCommandAction(myFixture.getProject(), () -> {
-            new GenerateCompareToAction().generate(simpleClass, fields);
-        });
-
-        myFixture.checkResultByFile("afterNotNull.java");
-    }
 }
